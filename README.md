@@ -3,3 +3,5 @@
 ## Data Structures
 - Stack
 - Queue
+- Circular Queue
+- Priority Queue
