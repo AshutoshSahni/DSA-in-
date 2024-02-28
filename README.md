@@ -6,3 +6,4 @@
 - Circular Queue
 - Priority Queue
 - Double Ended Queue
+- Linked List
