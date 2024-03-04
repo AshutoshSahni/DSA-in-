@@ -7,3 +7,4 @@
 - Priority Queue
 - Double Ended Queue
 - Linked List
+- Doubly Linked List
