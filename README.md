@@ -8,3 +8,6 @@
 - Double Ended Queue
 - Linked List
 - Doubly Linked List
+- Circular Linked List
+- Hash Table
+-
