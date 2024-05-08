@@ -11,3 +11,6 @@
 - Circular Linked List
 - Hash Table
 - Heap
+
+## Searching and Sorting Algorithms
+- Bubble Sort
